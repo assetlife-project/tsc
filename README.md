@@ -6,7 +6,7 @@ AssetLife Technical Steering Committee: meeting notes, slides and decisions
 - **Frequency:** monthly (it may change)
 - **Agenda:** to add items, open an issue [here](https://github.com/assetlife-project/tsc/issues)
 
-### Slide templace
+### Slide template
 
 - [Template (.otp)](./template/AssetLife_template.otp)
 
