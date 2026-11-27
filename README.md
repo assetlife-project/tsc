@@ -15,3 +15,9 @@ AssetLife Technical Steering Committee: meeting notes, slides and decisions
 - [Summary](./tsc_1/summary.md)
 - [Slides (.odp)](./tsc_1/AssetLife_TSC_01.odp)
 - [Slides (.pdf)](./tsc_1/AssetLife_TSC_01.pdf)
+
+### TSC #2 - November 25, 2026
+
+- [Summary](./tsc_2/summary.md)
+- [Slides (.odp)](./tsc_2/AssetLife_TSC_02.odp)
+- [Slides (.pdf)](./tsc_2/AssetLife_TSC_02.pdf)
